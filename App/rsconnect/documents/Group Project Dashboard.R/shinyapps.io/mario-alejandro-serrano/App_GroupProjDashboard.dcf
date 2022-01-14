@@ -1,0 +1,13 @@
+name: App_GroupProjDashboard
+title: App_GroupProjDashboard
+username:
+account: mario-alejandro-serrano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5355324
+bundleId: 5395084
+url: https://mario-alejandro-serrano.shinyapps.io/App_GroupProjDashboard/
+when: 1640038153.38394
+lastSyncTime: 1640038153.38394
+asMultiple: FALSE
+asStatic: FALSE
